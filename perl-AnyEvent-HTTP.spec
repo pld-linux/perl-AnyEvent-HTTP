@@ -8,13 +8,13 @@
 Summary:	AnyEvent::HTTP - simple but non-blocking HTTP/HTTPS client
 Summary(pl.UTF-8):	AnyEvent::HTTP - prosty, nieblokujący klient HTTP/HTTPS
 Name:		perl-AnyEvent-HTTP
-Version:	2.23
+Version:	2.24
 Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/AnyEvent/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	76e2c024cc45df126fa0ea63ab9b4707
+# Source0-md5:	a65ef37d987f65cd4340c611f4186013
 URL:		http://search.cpan.org/dist/AnyEvent-HTTP/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
