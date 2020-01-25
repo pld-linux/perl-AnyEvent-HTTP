@@ -4,7 +4,6 @@
 #
 %define		pdir	AnyEvent
 %define		pnam	HTTP
-%include	/usr/lib/rpm/macros.perl
 Summary:	AnyEvent::HTTP - simple but non-blocking HTTP/HTTPS client
 Summary(pl.UTF-8):	AnyEvent::HTTP - prosty, nieblokujący klient HTTP/HTTPS
 Name:		perl-AnyEvent-HTTP
